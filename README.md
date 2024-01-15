@@ -1,5 +1,5 @@
 # lamsa-filrouge
-*une plateforme en ligne permettant aux utilisateurs d'acheter et de vendre des articles de céramique et de résine faits à la main. La plateforme doit offrir une expérience conviviale et sécurisée pour les utilisateurs, avec des fonctionnalités spécifiques pour les acheteurs, les vendeurs et les administrateurs.
+* une plateforme en ligne permettant aux utilisateurs d'acheter et de vendre des articles de céramique et de résine faits à la main. La plateforme doit offrir une expérience conviviale et sécurisée pour les utilisateurs, avec des fonctionnalités spécifiques pour les acheteurs, les vendeurs et les administrateurs.
 
 
 ## Lien du UML
