@@ -7,3 +7,6 @@
 
 ## Lien du Cahier des charges
 * Visitez le lien : [Cahier des charges](https://docs.google.com/document/d/1yEnPyHRT1PVSiL_GfHfN1zpzbKYQAT-Gj1vusfZx_YE/edit?usp=sharing)
+
+## Lien de Jira
+* Visitez le lien : [Jira](https://ikram-mahfoud.atlassian.net/jira/software/projects/LAM/boards/4)
